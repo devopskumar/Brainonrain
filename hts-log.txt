@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Oct 2024 20:28:52 at https://www.brainobrainqatar.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.brainobrainqatar.com/ -O1 "E:\Brainobrain copy\BrainoBrainsaudi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:28:54	Warning: 	Moved Permanently for https://www.brainobrainqatar.com/robots.txt
+20:28:54	Warning: 	File has moved from https://www.brainobrainqatar.com/robots.txt to http://www.brainobrainqatar.com/robots.txt/
+20:28:59	Error: 	"Not Found" (404) at link www.brainobrainqatar.com/mt-content/uploads/2018/09/brainobrain-logo_5bab447e9ab2b.png (from https://www.brainobrainqatar.com/)
+20:29:19	Warning: 	Moved Permanently for www.brainobrainqatar.com/robots.txt
+20:29:19	Warning: 	File has moved from www.brainobrainqatar.com/robots.txt to http://www.brainobrainqatar.com/robots.txt/
+20:29:19	Error: 	"Not Found" (404) at link www.brainobrainqatar.com/mt-includes/css/mejs-controls.svg/ (from https://www.brainobrainqatar.com/mt-includes/css/assets.min.css?_build=1692343818)
+20:29:19	Error: 	"Not Found" (404) at link www.brainobrainqatar.com/courses/2018/10/qatar-6.jpg/ (from https://www.brainobrainqatar.com/courses/)
+20:29:19	Error: 	"Not Found" (404) at link www.brainobrainqatar.com/contacts/css/Form.jpg/ (from https://www.brainobrainqatar.com/contacts/)
+20:29:19	Error: 	"Not Found" (404) at link www.brainobrainqatar.com/student-enroll/css/Form.jpg/ (from https://www.brainobrainqatar.com/student-enroll/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 62 links scanned, 55 files written (11049464 bytes overall) [9358354 bytes received at 346605 bytes/sec], 2570162 bytes transferred using HTTP compression in 28 files, ratio 31%, 4.8 requests per connection
+(5 errors, 4 warnings, 0 messages)
